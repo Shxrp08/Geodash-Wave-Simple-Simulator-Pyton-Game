@@ -1,7 +1,9 @@
 # Geodash-Wave-Simple-Simulator-Pyton-Game
 My bros and i were assigned to do an assignment. We made a python game similar to geometry-dash wave, with similar gameplay as well
 
-## ⚠️⚠️⚠️⚠️⚠️ My Error Experiences :)
+
+
+## ⚠️ My Error Experiences :)
 
 **1. Incorrect Terminal Path (`No such file or directory`)**
 If the terminal cannot find the script, it is likely running in the wrong default directory (such as the VS Code default folder). You must change the directory to the exact folder where the game is located using the `cd` command before executing the file.
