@@ -1,4 +1,4 @@
-# Sealab-Study-Group-2026_Geodash-Wave-Python-Game📈📉
+# Sealab-Study-Group-2026-Project_Geodash-Wave-Python-Game📈📉
 My bros and i were assigned to do an assignment. We made a python game similar to geometry-dash wave, with similar gameplay as well🤖🤖🤖
 
 ##
